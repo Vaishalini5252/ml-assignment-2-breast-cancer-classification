@@ -18,7 +18,7 @@ Breast cancer diagnosis relies on correctly classifying a tumor as **malignant**
 
 ## c. GitHub Repository Link
 
-> `<PASTE YOUR GITHUB REPO URL HERE AFTER PUSHING>`
+> https://github.com/Vaishalini5252/ml-assignment-2-breast-cancer-classification
 
 Repository contains: `app.py`, `requirements.txt`, `README.md`, `test_data.csv`, `train_models.py`, `model/` (5 trained classifiers + scaler + feature names + classification reports), `metrics_comparison.csv`.
 
