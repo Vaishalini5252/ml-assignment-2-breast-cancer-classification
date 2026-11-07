@@ -92,7 +92,3 @@ The app loads pre-trained models from `model/` and **never retrains** on uploade
 ## Live Streamlit App Link
 
 > https://ml-assignment-2-breast-cancer-classification-i3u4to6utkz4wexyf.streamlit.app/
-
-## BITS Virtual Lab Execution Screenshot
-
-> `<INSERT SCREENSHOT HERE / reference screenshot filename in repo>`
